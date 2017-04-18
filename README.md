@@ -1,6 +1,8 @@
 # Developer/Designer Page Layout Concept
 
-A page layout concept with a developer/designer theme and a special effect.
+An experimental page layout concept with a developer/designer theme and a special effect.
+
+![Developer/Designer Page Layout Concept 800x600](https://tympanus.net/codrops/wp-content/uploads/2017/04/DeveloperDesignerPageLayout_800x600.jpg)
 
 [Article on Codrops](https://tympanus.net/codrops/?p=30725)
 
