@@ -153,8 +153,6 @@
 	 */
 	PieceMaker.prototype.removeTilt = function() {
 		if( is3DBuggy ) return;
-		this.el.style.transition = 'none';
-		this.el.style.transform = 'none';
 		this.tilt = false;
 	};
 
